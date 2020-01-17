@@ -1,6 +1,6 @@
 # bluecart
 
-A new Flutter project.
+An e-commerce app, developed using flutter and firebase.
 
 ## Getting Started
 
